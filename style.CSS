@@ -1,0 +1,108 @@
+body{
+    margin: opx;
+    padding: 0px;
+    background-color: blue;
+}
+
+#head1{
+    width: 40%;
+    height: 90vh;
+    margin-left: 30%;
+    margin-top: 2%;
+    background-color: aliceblue;
+    border-radius: 2%;
+}
+
+#todo {
+    font-size: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 18%;
+    padding-left: 6%;
+    background-color: rgb(255, 0, 0);
+    color: antiquewhite;
+    border-radius: 10px;
+}
+
+#head1 h2{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+input[type="text"]{
+    height: 5vh;
+    width: 60%;
+    margin-left: 5%;
+    border-radius: 5px;
+}
+
+#submit{
+    height: 6vh;
+    width: 20%;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    color: aliceblue;
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+}
+
+#task{
+    padding-top: 5vh;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#table{
+    width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+#hh th{
+    padding-left: 10%;
+}
+
+#first {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#first td h3{
+    padding-left: 10%;
+}
+
+input[value="Edit"]{
+    height: 5vh;
+    width: 5vw;
+    margin-left: 45%;
+    background-color: rgb(0, 129, 0);
+}
+
+input[value="Delete"]{
+    height: 5vh;
+    width: 5vw;
+    margin-left: 40%;
+    background-color: red;
+}
+
+
+
+#sec {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sec td h3{
+    padding-left: 10%;
+}
+
+#third td h3{
+    padding-left: 10%;
+}
